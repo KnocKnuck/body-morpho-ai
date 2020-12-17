@@ -16,4 +16,8 @@ This is Large Surface Body Detection without sensor :
 This is Back body Detection without sensor : 
 ![Image of Morpho1](http://joseph-hani.fr/img/projet/bodymorpho/backpicture.png)
 
+
+This project needs improvements
+
 If you need the complete project, please contact me via Linkedin : Joseph HANI 
+

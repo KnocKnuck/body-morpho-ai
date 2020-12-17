@@ -20,4 +20,6 @@ This is Back body Detection without sensor :
 This project needs improvements
 
 If you need the complete project, please contact me via Linkedin : Joseph HANI 
+We could work together and make many more improvements 
+
 
